@@ -36,6 +36,7 @@ resultado=param1*param2;
 return resultado;
 }
 
+<<<<<<< HEAD
 >>>>>>> Estudiante1
 =======
 
@@ -47,3 +48,13 @@ resultado=param1/param2;
 return resultado;
 }
 >>>>>>> Estudiante2
+=======
+
+/*Creando la Funcion Potencia Estudiante1*/
+public int Potencia(int base, int exponente)
+{
+int resultado;
+resultado=Math.pow(base,exponente);
+return resultado;
+}
+>>>>>>> Estudiante1
