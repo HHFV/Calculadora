@@ -13,3 +13,11 @@ int resultado;
 resultado=param1-param2;
 return resultado;
 }
+
+/*Creanod la Funcion Division Estudiante2*/
+public int Resta(int param1, int param2)
+{
+int resultado;
+resultado=param1/param2;
+return resultado;
+}
